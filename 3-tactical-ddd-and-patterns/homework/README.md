@@ -14,3 +14,6 @@ The app is for recruitment purposes.
 
 ## Link
 https://github.com/klaudia-janiec/friendly-funicular
+
+## Heroku
+https://friendly-funicular.herokuapp.com/candidates/
