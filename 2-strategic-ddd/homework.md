@@ -10,13 +10,12 @@
 
 ## Entities
 > **Entity** - domain object with unique identity and mutable state.
-
-- User
 - Package
-- Courier
 - Order
 - Payment
-- Invoice
 
 ## Aggregates
 > **Aggregate** - composed domain objects. Root of object hierarchy is and aggregate root.
+- User
+- Courier
+- Invoice
